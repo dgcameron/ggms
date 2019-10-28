@@ -16,6 +16,6 @@
 
 | Tables        | Are           | Cool  | test1 | test2 | test3 | test4 | test5 |
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
-| col 3 is      | right-aligned | $1600 | right-aligned | right-aligned | right-aligned | right-aligned | right-aligned |    
+| col 3 is      | right-aligned | $1600 | right-alasfasdfasdfasdfasdfigned | right-aligafasdfasdfasdfasdfned | right-aasdfasdfasfasdfligned | right-aligdfasdsdfasdfasdfasdfaned | right-aasfdasdfasdfasdfaasdfasdfasdfasdfassdfligned |    
 | col 2 is      | centered      |   $12 | right-aligned | right-aligned | right-aligned | right-aligned | right-aligned |
 | zebra stripes | are neat      |    $1 | right-aligned | right-aligned | right-aligned | right-aligned | right-aligned |
